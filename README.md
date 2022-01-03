@@ -1,3 +1,10 @@
+1) Your ERC-721 Token Name => "StarNotary"
+2) Your ERC-721 Token Symbol => "STAR"
+3) Version of the Truffle and OpenZeppelin used
+   1) Truffle version => 5.4.25
+   2) OpenZeppelin version => 2.5.1
+4) [Your Token Address on the Rinkeby Network](https://rinkeby.etherscan.io/address/0xabe526b7a609541b5d777209a63a824415d3b40f)
+
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
